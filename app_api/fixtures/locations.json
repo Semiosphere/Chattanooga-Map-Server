@@ -6,7 +6,8 @@
             "name": "The Barn Nursery",
             "coordinates": "35.017290, -85.286670",
             "description": "This ain’t your baby’s barn! Browse an overwhelming selection of plants and gardening equipment as you explore what is surely the largest barn-themed plant nursery in eastern TN! Highlights include a section dedicated to miniature fairy gardens and a rotating cast of bigger-than-life statues. Tell the Sasquatch Zach says hello!",
-            "img": "eventualurl.com"
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/Barn_Nursery_szx7ra.png"
         }
     },
     {
@@ -16,7 +17,151 @@
             "name": "Be Caffeinated",
             "coordinates": "35.064390, -85.310100",
             "description": "Coffee, but with exceptional vibes! The folks at Be Caffeinated have been making a buzz by inviting local artists and musicians to their cozy patio to show off their skills.",
-            "img": "eventualurl.com"
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654877272/Chattanooga%20Map/Character%20pngs/Be_caff_png_azrcdm.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 3,
+        "fields": {
+            "name": "Champy's Chicken",
+            "coordinates": "35.043270, -85.302180",
+            "description": "Truly the champs of fried chicken! Their location next to the university means mouth watering smells tempts you between every class.",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/Champy_s_Chicken_xpzg7y.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 4,
+        "fields": {
+            "name": "Frothy Monkey",
+            "coordinates": "35.037290, -85.305620",
+            "description": "Good food, unique drinks, and a very cozy atmosphere despite its size. Their bathrooms stock the best smelling hand soap in the city!",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654877272/Chattanooga%20Map/Character%20pngs/Frothy_monkey_png_uhlfan.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 5,
+        "fields": {
+            "name": "Good Dog",
+            "coordinates": "35.062170, -85.307470",
+            "description": "Only 3 things in life are certain: death, taxes, and Good Dog being inexplicably closed when you’re jonesing for a gourmet weeny. I’ve heard tales of weary travelers being greeted by the mystical “dog waft” as they practice dance steps around North Shore and never being heard from again. Or maybe they just use the rear exit to enjoy an excellent hot dog by the river bank.",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876789/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_ttdshg.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 6,
+        "fields": {
+            "name": "Honest Pint",
+            "coordinates": "35.04595, -85.30668",
+            "description": "This explorer spent a great deal of time and money in this beast of an Irish pub, or so my friends tell me. Though I’ve distanced myself from my groggy past, my sweetest dreams linger still on their tots fried in duck fat.",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654877272/Chattanooga%20Map/Character%20pngs/Honest_pint_png_ovexzf.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 7,
+        "fields": {
+            "name": "I Go Tokyo",
+            "coordinates": "35.06279, -85.31205",
+            "description": "I may be a Japanophile but that’s hardly a prerequisite for enjoying the delightful imports available here. With a selection curated by dedicated globetrotters, time loses all meaning whenever I step into this shop.",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654877272/Chattanooga%20Map/Character%20pngs/I_go_Tokyo_png_rwqm8e.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 8,
+        "fields": {
+            "name": "Infinity Flux",
+            "coordinates": "35.05192, -85.31058",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/Infinity_Flux_yhsoig.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 9,
+        "fields": {
+            "name": "Lupi's Pizza Pies",
+            "coordinates": "35.10801, -85.27177",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/Lupi_s_dkmzun.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 10,
+        "fields": {
+            "name": "Mean Mug",
+            "coordinates": "35.03674, -85.30895",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876789/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_9_dmkn5k.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 11,
+        "fields": {
+            "name": "Milk and Honey",
+            "coordinates": "35.06415, -85.30882",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654877272/Chattanooga%20Map/Character%20pngs/Milk___Honey_spjmu1.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 12,
+        "fields": {
+            "name": "Mojo Burrito",
+            "coordinates": "35.08439, -85.31742",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_1_ethzn1.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 13,
+        "fields": {
+            "name": "Pickle Barrel",
+            "coordinates": "35.04443, -85.30938",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876790/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_6_py0zw8.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 14,
+        "fields": {
+            "name": "Southern Squeeze",
+            "coordinates": "35.06876, -85.28878",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876789/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_5_missui.png"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 15,
+        "fields": {
+            "name": "Tennessee Bouldering Authority",
+            "coordinates": "35.01092, -85.32832",
+            "description": "Sample",
+            "map_icon": "eventualurl.com",
+            "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1654876788/Chattanooga%20Map/Character%20pngs/CMC_pra5mh.png"
         }
     }
 ]
