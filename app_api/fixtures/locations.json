@@ -1,0 +1,22 @@
+[
+    {
+        "model": "app_api.location",
+        "pk": 1,
+        "fields": {
+            "name": "The Barn Nursery",
+            "coordinates": "35.017290, -85.286670",
+            "description": "This ain’t your baby’s barn! Browse an overwhelming selection of plants and gardening equipment as you explore what is surely the largest barn-themed plant nursery in eastern TN! Highlights include a section dedicated to miniature fairy gardens and a rotating cast of bigger-than-life statues. Tell the Sasquatch Zach says hello!",
+            "img": "eventualurl.com"
+        }
+    },
+    {
+        "model": "app_api.location",
+        "pk": 2,
+        "fields": {
+            "name": "Be Caffeinated",
+            "coordinates": "35.064390, -85.310100",
+            "description": "Coffee, but with exceptional vibes! The folks at Be Caffeinated have been making a buzz by inviting local artists and musicians to their cozy patio to show off their skills.",
+            "img": "eventualurl.com"
+        }
+    }
+]

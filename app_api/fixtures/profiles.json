@@ -1,0 +1,10 @@
+[
+    {
+        "model": "app_api.profile",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "profile_pic": 1
+        }
+    }
+]

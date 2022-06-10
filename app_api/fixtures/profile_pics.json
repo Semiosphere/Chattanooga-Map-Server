@@ -1,0 +1,16 @@
+[
+    {
+        "model": "app_api.profilePic",
+        "pk": 1,
+        "fields": {
+            "src": "eventualurl.com"
+        }
+    },
+    {
+        "model": "app_api.profilePic",
+        "pk": 2,
+        "fields": {
+            "src": "eventualurl.com"
+        }
+    }
+]

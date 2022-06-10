@@ -47,9 +47,11 @@ def register_user(request):
     )
 
     # TODO: If you're using a model with a 1 to 1 relationship to the django user, create that object here
-
+    profile = Profile.objects.create(
+        user=new_user
+    )
     
-    token = Token.objects.create(user=new_user)
+    token = Token.objects.create(user=profile.user)
     # TODO: If you need to send the client more information update the data dict
     
     data = { 'token': token.key }
