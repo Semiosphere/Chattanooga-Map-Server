@@ -7,7 +7,7 @@ from app_api.models import Location, Profile
 from rest_framework.decorators import action
 
 class LocationView(ViewSet):
-    """Location View"""
+    """Single location View"""
     def retrieve(self, request, pk):
         """Handle GET requests for a single location
         Returns:
@@ -26,12 +26,21 @@ class LocationView(ViewSet):
         location.discovered_by.add(profile)
         return Response({'message': 'Location discovered!'}, status=status.HTTP_201_CREATED)
     
+    def list(self, request):
+        """Handle GET requests to get all locations
+        Returns:
+            response -- JSON serialized list of locations"""
+        
+        locations = Location.objects.all()
+        serializer = LocationSerializer(locations, many=True)
+        return Response(serializer.data)
+    
+    
 
     
 class LocationSerializer(serializers.ModelSerializer):
     """JSON serializer for the Django location"""
     class Meta:
         model = Location
-        fields = ('name', 'coordinates', 'description', 'img')
-        
+        fields = ('name', 'coordinates', 'description', 'character_art', 'x', 'y')
         

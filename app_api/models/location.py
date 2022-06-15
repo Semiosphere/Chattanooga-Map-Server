@@ -4,9 +4,10 @@ class Location(models.Model):
     name = models.CharField(max_length=50)
     coordinates = models.CharField(max_length=50)
     description = models.CharField(max_length=300)
-    map_icon = models.URLField()
     character_art = models.URLField()
     discovered_by = models.ManyToManyField("Profile", related_name="locations")
+    x = models.IntegerField()
+    y = models.IntegerField()
     
     @property
     def joined(self):
