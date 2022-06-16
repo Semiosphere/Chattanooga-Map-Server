@@ -30,3 +30,4 @@ class ProfileLocationSerializer(serializers.ModelSerializer):
     class Meta:
         model = ProfileLocation
         fields = ('profile', 'location')
+        depth = 1
