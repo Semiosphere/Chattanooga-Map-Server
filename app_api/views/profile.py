@@ -3,7 +3,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from app_api.models import Profile
+from app_api.models import Profile, ProfilePic
 from rest_framework.decorators import action
 from django.contrib.auth.models import User
 
@@ -41,3 +41,4 @@ class CreateProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = Profile
         fields = ['id', 'profile_pic']
+        

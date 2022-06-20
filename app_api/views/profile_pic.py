@@ -29,4 +29,4 @@ class ProfilePicSerializer(serializers.ModelSerializer):
     """JSON serializer for the Django profile pic"""
     class Meta:
         model = ProfilePic
-        fields = ('src',)
+        fields = ('id', 'src')
