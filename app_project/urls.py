@@ -17,12 +17,11 @@ from django.contrib import admin
 from django.urls import path, include
 from app_api.views import register_user, login_user
 from rest_framework import routers
-from app_api.views import LocationView, ProfilePicView, ProfileLocationView, ProfileView
+from app_api.views import LocationView, ProfilePicView, ProfileView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'locations', LocationView, 'location')
 router.register(r'profilepics', ProfilePicView, 'profile pic')
-router.register(r'profilelocations', ProfileLocationView, 'profile location')
 router.register(r'profiles', ProfileView, 'profile')
 
 

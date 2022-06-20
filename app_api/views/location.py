@@ -42,5 +42,5 @@ class LocationSerializer(serializers.ModelSerializer):
     """JSON serializer for the Django location"""
     class Meta:
         model = Location
-        fields = ('name', 'coordinates', 'description', 'character_art', 'x', 'y')
+        fields = ('id', 'name', 'coordinates', 'description', 'character_art', 'x', 'y')
         
