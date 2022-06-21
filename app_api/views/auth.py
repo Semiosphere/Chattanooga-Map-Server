@@ -5,6 +5,7 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework import status
+from app_api.models import Profile
 
 
 @api_view(['POST'])
@@ -48,7 +49,8 @@ def register_user(request):
 
     # TODO: If you're using a model with a 1 to 1 relationship to the django user, create that object here
     profile = Profile.objects.create(
-        user=new_user
+        user=new_user,
+        profile_pic_id=1
     )
     
     token = Token.objects.create(user=profile.user)
