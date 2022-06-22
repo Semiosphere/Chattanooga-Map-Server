@@ -35,7 +35,7 @@ class ProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = Profile
         fields = ['id', 'profile_pic', 'locations']
-        depth = 1
+        depth = 2
     
 class CreateProfileSerializer(serializers.ModelSerializer):
     class Meta:

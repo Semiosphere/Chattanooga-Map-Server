@@ -8,7 +8,7 @@ class Location(models.Model):
     discovered_by = models.ManyToManyField("Profile", related_name="locations")
     x = models.IntegerField()
     y = models.IntegerField()
-    profile_pic_id = models.ForeignKey("ProfilePic", on_delete=models.CASCADE)
+    profile_pic = models.ForeignKey("ProfilePic", on_delete=models.CASCADE)
     
     @property
     def joined(self):

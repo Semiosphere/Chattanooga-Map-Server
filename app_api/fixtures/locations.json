@@ -8,7 +8,8 @@
             "description": "This ain’t your baby’s barn! Browse an overwhelming selection of plants and gardening equipment as you explore what is surely the largest barn-themed plant nursery in eastern TN! Highlights include a section dedicated to miniature fairy gardens and a rotating cast of bigger-than-life statues. Tell the Sasquatch Zach says hello!",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Barn_Nursery_wrpatt.png",
             "x": 1500,
-            "y": 1870
+            "y": 1870,
+            "profile_pic": 15
         }
     },
     {
@@ -20,7 +21,8 @@
             "description": "Coffee, but with exceptional vibes! The folks at Be Caffeinated have been making a buzz by inviting local artists and musicians to their cozy patio to show off their skills.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/Be_caff_png_xvhza5.png",
             "x": 920,
-            "y": 630
+            "y": 630,
+            "profile_pic": 14
         }
     },
     {
@@ -32,7 +34,8 @@
             "description": "Truly the champs of fried chicken! Their location next to the university means mouth watering smells tempts you between every class.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Champy_s_Chicken_h6vqz1.png",
             "x": 1315,
-            "y": 1535
+            "y": 1535,
+            "profile_pic": 10
         }
     },
     {
@@ -44,7 +47,8 @@
             "description": "Good food, unique drinks, and a very cozy atmosphere despite its size. Their bathrooms stock the best smelling hand soap in the city!",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Frothy_monkey_png_lad0o9.png",
             "x": 1180,
-            "y": 1770
+            "y": 1770,
+            "profile_pic": 9
         }
     },
     {
@@ -56,7 +60,8 @@
             "description": "Only 3 things in life are certain: death, taxes, and Good Dog being inexplicably closed when you’re jonesing for a gourmet weeny. I’ve heard tales of weary travelers being greeted by the mystical “dog waft” as they practice dance steps around North Shore and never being heard from again. Or maybe they just use the rear exit to enjoy an excellent hot dog by the river bank.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_jmqaak.png",
             "x": 1210,
-            "y": 1310
+            "y": 1310,
+            "profile_pic": 11
         }
     },
     {
@@ -68,7 +73,8 @@
             "description": "This explorer spent a great deal of time and money in this beast of an Irish pub, or so my friends tell me. Though I’ve distanced myself from my groggy past, my sweetest dreams linger still on their tots fried in duck fat.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/Honest_pint_png_1_xllvdf.png",
             "x": 1105,
-            "y": 1640
+            "y": 1640,
+            "profile_pic": 12
         }
     },
     {
@@ -80,7 +86,8 @@
             "description": "I may be a Japanophile but that’s hardly a prerequisite for enjoying the delightful imports available here. With a selection curated by dedicated globetrotters, time loses all meaning whenever I step into this shop.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/I_go_Tokyo_png_bpv9zq.png",
             "x": 1015,
-            "y": 1290
+            "y": 1290,
+            "profile_pic": 3
         }
     },
     {
@@ -92,7 +99,8 @@
             "description": "Games! Books! Comics! Thousands of miniatures I’m tempted to buy even though I’ll never get around to painting them and they don’t even fit into my DnD campaign! . . . Toys! Infinity Flux has the kindest, most knowledgeable staff in town.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Infinity_Flux_n5qpni.png",
             "x": 1380,
-            "y": 810
+            "y": 810,
+            "profile_pic": 4
         }
     },
     {
@@ -104,7 +112,8 @@
             "description": "Lupi’s Pizzas are perfection. Heck, I worked there for a year and even I’m not sure what makes them so good. Even when their line is long, the atmosphere is so wild that you’ll have plenty to look at while your appetite builds.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/Lupi_s_1_tjibbi.png",
             "x": 995,
-            "y": 1595
+            "y": 1595,
+            "profile_pic": 13
         }
     },
     {
@@ -116,7 +125,8 @@
             "description": "Excellent coffee, delicious pastries, and a recent move to Market South means you’ve got tons of dining options. Mean Mug was the first Chatturday Morning Cartoon design I made! If only they’d buy the rights….",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_9_ddgbu1.png",
             "x": 1020,
-            "y": 1745
+            "y": 1745,
+            "profile_pic": 8
         }
     },
     {
@@ -128,7 +138,8 @@
             "description": "Sample",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/Milk___Honey_e4gl33.png",
             "x": 1000,
-            "y": 1150
+            "y": 1150,
+            "profile_pic": 7
         }
     },
     {
@@ -140,7 +151,8 @@
             "description": "Sample",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_1_i20nsl.png",
             "x": 965,
-            "y": 940
+            "y": 940,
+            "profile_pic": 6
         }
     },
     {
@@ -152,7 +164,8 @@
             "description": "Sample",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_6_vfaazj.png",
             "x": 1220,
-            "y": 1625
+            "y": 1625,
+            "profile_pic": 2
         }
     },
     {
@@ -164,7 +177,8 @@
             "description": "Sample",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_5_sxfugt.png",
             "x": 1315,
-            "y": 1150
+            "y": 1150,
+            "profile_pic": 5
         }
     },
     {
@@ -176,7 +190,8 @@
             "description": "Sample",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/TBA_aibkns.png",
             "x": 1630,
-            "y": 1700
+            "y": 1700,
+            "profile_pic": 1
         }
     }
 ]
