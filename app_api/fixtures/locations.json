@@ -31,7 +31,7 @@
         "fields": {
             "name": "Champy's Chicken",
             "coordinates": "35.043270, -85.302180",
-            "description": "Truly the champs of fried chicken! Their location next to the university means mouth watering smells tempts you between every class.",
+            "description": "Truly the champs of fried chicken! Their location next to the university means mouth watering smells tempt you between every class.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Champy_s_Chicken_h6vqz1.png",
             "x": 1315,
             "y": 1535,
@@ -122,7 +122,7 @@
         "fields": {
             "name": "Mean Mug",
             "coordinates": "35.03674, -85.30895",
-            "description": "Excellent coffee, delicious pastries, and a recent move to Market South means you’ve got tons of dining options. Mean Mug was the first Chatturday Morning Cartoon design I made! If only they’d buy the rights….",
+            "description": "Excellent coffee, delicious pastries, and a very cozy vine-covered patio. Mean Mug was the first Chatturday Morning Cartoon design I made! If only they’d buy the rights….",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393671/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_9_ddgbu1.png",
             "x": 1020,
             "y": 1745,
@@ -135,7 +135,7 @@
         "fields": {
             "name": "Milk and Honey",
             "coordinates": "35.06415, -85.30882",
-            "description": "Sample",
+            "description": "This city has a LOT of coffee shops and this sure is one of them. Is it the delicious open-faced biscuits, the cool inside/outside bar top, or the 200 person line that keeps me coming back?",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/Milk___Honey_e4gl33.png",
             "x": 1000,
             "y": 1150,
@@ -148,7 +148,7 @@
         "fields": {
             "name": "Mojo Burrito",
             "coordinates": "35.08439, -85.31742",
-            "description": "Sample",
+            "description": "A Chattanooga OG, Mojo's $1 taco days kept me full in my early college days. Having worked there for a few years, I can confidently say that I preferred the customer side of the counter.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_1_i20nsl.png",
             "x": 965,
             "y": 940,
@@ -161,7 +161,7 @@
         "fields": {
             "name": "Pickle Barrel",
             "coordinates": "35.04443, -85.30938",
-            "description": "Sample",
+            "description": "You simply haven't experienced a Pickle Shot on the rooftop patio of a flatiron building in downtown Chattanooga until you've done exactly that at the only place you can, Pickle Barrel. -The Mayor",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_6_vfaazj.png",
             "x": 1220,
             "y": 1625,
@@ -174,7 +174,7 @@
         "fields": {
             "name": "Southern Squeeze",
             "coordinates": "35.06876, -85.28878",
-            "description": "Sample",
+            "description": "Excellent vegan and vegetarian options in an unusually sterile environment (floor to ceiling windows and VERY white walls). If there's a fruit, they've juiced it.",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393673/Chattanooga%20Map/Character%20pngs/Untitled_Artwork_5_sxfugt.png",
             "x": 1315,
             "y": 1150,
@@ -187,7 +187,7 @@
         "fields": {
             "name": "Tennessee Bouldering Authority",
             "coordinates": "35.01092, -85.32832",
-            "description": "Sample",
+            "description": "My introduction to Chattanooga's favorite sport. I was a customer back when this gym was located in an old attic space but they've since changed locations and I've since lost all muscle mass. ",
             "character_art": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1655393672/Chattanooga%20Map/Character%20pngs/TBA_aibkns.png",
             "x": 1630,
             "y": 1700,
